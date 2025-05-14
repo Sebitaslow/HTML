@@ -10,9 +10,9 @@ Este proyecto contiene una serie de ejercicios prácticos para crear una página
 - enlaces.html: Página que contiene una lista de enlaces a sitios web favoritos.
 - receta.html: Página que describe una receta de cocina con ingredientes y pasos
 
-  ## Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
-  - HTML
+- HTML
 
 ## Cómo Utilizar
 
