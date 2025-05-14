@@ -1,4 +1,4 @@
-### Práctica Guiada: Mi primera Página Web
+# Práctica Guiada: Mi primera Página Web
 
 Este proyecto contiene una serie de ejercicios prácticos para crear una página web básica utilizando HTML. Cada ejercicio se encuentra en un archivo separado y se puede abrir en un navegador para ver los resultados
 
